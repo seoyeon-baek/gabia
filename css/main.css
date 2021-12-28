@@ -1,0 +1,35 @@
+#headerWrap{
+	background-color: red;
+}
+
+/* navbar */
+#navWrap{
+	background-color: orange;
+}
+#navWrap>ul>li{
+	display: inline;
+}
+
+#footerWrap{
+	background-color: pink;
+}
+
+#export{
+	background-color: yellow;
+}
+
+#mall{
+	background-color: green;
+}
+
+#special{
+	background-color:  blue;
+}
+
+#question{
+	background-color: purple;
+}
+
+#news{
+	background-color: salmon;
+}
