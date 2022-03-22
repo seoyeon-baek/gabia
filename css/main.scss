@@ -5,10 +5,11 @@
 /* navbar */
 #navWrap {
   background-color: orange;
-}
-
-#navWrap ul li {
-  display: inline;
+  ul {
+    li {
+      display: inline;
+    }
+  }
 }
 
 #footerWrap {
@@ -34,4 +35,3 @@
 #news {
   background-color: salmon;
 }
-/*# sourceMappingURL=main.css.map */
